@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Oleksiy
 - 👀 I’m interested in Java and Flutter
-- 🌱 I’m currently learning Java Core
+- 🌱 I’m currently learning Flutter
 -
 
 <!---
